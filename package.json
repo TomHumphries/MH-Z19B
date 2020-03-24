@@ -19,5 +19,9 @@
   "license": "ISC",
   "dependencies": {
     "serialport": "^8.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TomHumphries/MH-Z19B.git"
   }
 }
