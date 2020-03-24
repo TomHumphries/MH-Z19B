@@ -1,0 +1,23 @@
+{
+  "name": "mh-z19b",
+  "version": "1.0.0",
+  "description": "Communicate with the MH-Z19B IR CO2 sensor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MH-Z19B",
+    "MH-Z19",
+    "MHZ19B",
+    "MHZ19",
+    "CO2",
+    "sensor",
+    "iot"
+  ],
+  "author": "Tom Humphries",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^8.0.7"
+  }
+}
